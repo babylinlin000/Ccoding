@@ -2,6 +2,7 @@
 
 Anna array prictice 20191116
 reference : https://openhome.cc/Gossip/CGossip/OneDimArray.html
+version:01
 
 *******************************************************************************/
 
